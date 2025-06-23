@@ -2,8 +2,7 @@
 An NLP-powered tool to quantify alignment between resumes and job descriptions using semantic + keyword analysis.
 # Resume-Job Description Matcher 🔍
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/MItwaa/JobResumeMatcher)
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/MItwaa/Job_Resume_Matcher)
 
 An intelligent matching system that quantifies alignment between resumes and job descriptions using **semantic analysis** and **keyword optimization**.
 
