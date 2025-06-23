@@ -7,7 +7,7 @@ An NLP-powered tool to quantify alignment between resumes and job descriptions u
 
 An intelligent matching system that quantifies alignment between resumes and job descriptions using **semantic analysis** and **keyword optimization**.
 
-![Demo Screenshot](demo.png) 
+![Demo Screenshot](image.png) 
 
 ## Features ✨
 
